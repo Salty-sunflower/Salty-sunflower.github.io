@@ -1,0 +1,116 @@
+ body {
+    background-color: LightGoldenRodYellow;
+   	 border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+ font-family: italic small-caps bold 12px/30px Georgia, serif;
+ }
+ 
+ header, nav {
+	 width: 1180px;
+	 margin: 5px;
+	 background-image: linear-gradient(Gold, LightGoldenRodYellow);
+	padding: 5px;
+ }
+ 
+ 
+ main {
+	 hight: 550px;
+ }
+ 
+ #section1 {
+	 width: 550px;
+	 background-color: LightPink;
+	 border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+	 float: left;
+	 margin: 0px 5px;
+	 padding: 5px;
+	 hight: 550px;
+ }
+	
+	#section2 {
+	 width: 400px;
+	 background-color: LightPink;
+	 border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+	 float: left;
+	 padding: 5px;
+	 hight: 550px;
+ }
+ 
+ #section3 {
+	 width: 50px;
+	 background-image: linear-gradient(Gold, LightGoldenRodYellow);
+	 border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+	 float: left;
+	 padding: 5px;
+	 hight: 550px;
+ }
+ 
+  #section4 {
+	 width: 550px;
+	  background-image: linear-gradient(Gold, LightGoldenRodYellow);
+	  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+	 float: left;
+	 margin: 0px 5px;
+	 padding: 5px;
+	 hight: 550px;
+ }
+ 
+ 
+ #section5 {
+	 width: 500px;
+	 background-image: linear-gradient(Gold, LightGoldenRodYellow);
+	 border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+	 float: left;
+	 padding: 5px;
+	 hight: 550px;
+ }
+  
+    #section6 {
+	 width: 1500px;
+	  background-image: linear-gradient(Gold, LightGoldenRodYellow);
+	  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+	 float: left;
+	 margin: 0px 5px;
+	 padding: 5px;
+	 hight: 550px;
+	}
+  
+  
+
+ 
+ nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gold;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: darkgray;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-image: linear-gradient(Gold, LightGoldenRodYellow);
+}
